@@ -4,7 +4,7 @@
 ![](pics_for_practice/stairs.png)
 
 ## Sort Colors
-![](sort_colors.png)
+![](pics_for_practice/sort_colors.png)
 ``` python
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
@@ -19,7 +19,7 @@ class Solution:
 ```
 
 ## CountingSort1
-![alt text](count1.png)
+![alt text](pics_for_practice/count1.png)
 ``` python
 #!/bin/python3
 
@@ -64,7 +64,7 @@ if __name__ == '__main__':
 ```
 
 ## CountingSort2
-![alt text](count2.png)
+![alt text](pics_for_practice/count2.png)
 ``` python
 #!/bin/python3
 
@@ -115,7 +115,7 @@ if __name__ == '__main__':
 ```
 
 ## CountingSort3
-![alt text](count3.png)
+![alt text](pics_for_practice/count3.png)
 ``` python
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 def counting_sort_cumulative(arr):
@@ -152,7 +152,7 @@ if __name__ == '__main__':
 ```
 
 ## QuickSort1
-![alt text](quick.png)
+![alt text](pics_for_practice/quick.png)
 ``` python
 #!/bin/python3
 
@@ -206,7 +206,7 @@ if __name__ == '__main__':
 ```
 
 ## Top K-frequent elements
-![alt text](top_k.png)
+![alt text](pics_for_practice/top_k.png)
 ``` python
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
@@ -225,7 +225,7 @@ class Solution:
 ```
 
 ## Kth largest element
-![alt text](kth_large.png)
+![alt text](pics_for_practice/kth_large.png)
 ``` python
 def merge(L, R):
         ans = []
@@ -259,7 +259,7 @@ class Solution:
 ```
 
 ## Parenteses
-![alt-text](right.png)
+![alt-text](pics_for_practice/right.png)
 ``` python
 class Stack:
     def __init__(self):
@@ -311,7 +311,7 @@ class Solution:
 ```
 
 ## Stack using Queue
-![alt text](stack.png)
+![alt text](pics_for_practice/stack.png)
 ``` python
 class MyStack:
 
@@ -335,7 +335,7 @@ class MyStack:
 ```
 
 ## Queue using Stack
-![alt text](queue.png)
+![alt text](pics_for_practice/queue.png)
 ``` python
 class MyQueue:
 
