@@ -1,7 +1,7 @@
 # Решенная практика
 
 ## Climbing Stairs
-![](pictures_for_practice/stairs.png)
+![](pics_for_practice/stairs.png)
 
 ## Sort Colors
 ![](sort_colors.png)
